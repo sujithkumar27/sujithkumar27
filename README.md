@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https//sujithkumar27.io)
 <h1 align="center">Hi 👋, I'm Sujith kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img align="right" alt="coding" width="280" src="https://i.redd.it/oc2qyms825361.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujithkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="sujithkumar27" /> </p>
